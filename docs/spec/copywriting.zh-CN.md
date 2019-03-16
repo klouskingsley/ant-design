@@ -1,11 +1,7 @@
 ---
-category:
-  zh-CN: 模式
-  en-US: Patterns
+category: 模式
 order: 6
-title:
-  zh-CN: 文案
-  en-US: Copywriting
+title: 文案
 ---
 
 在界面中，我们需要通过对话的方式与用户产生共鸣。精准、清晰的语言会更容易让用户理解，合适的语气更容易让用户建立信任感。因此在界面设计时，文案也应当被重视。 在使用和书写文案时有以下几点需要注意：
@@ -95,7 +91,7 @@ title:
 <img class="preview-img no-padding bad" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/cugctFUEXcVUNnsZRLMD.png" alt="错误示范" description="不完整，有歧义或太口语化。">
 
 <img class="preview-img no-padding good" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/jvYzIkRbdICzNvxeVfBr.png" alt="正确示范" description="专业用语精准。">
-<img class="preview-img no-padding bad" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/TFhFTbqHlEXTMOyCxIvN.png" alt="错误示范" description="专业的行业用词有别字。">
+<img class="preview-img no-padding bad" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/TFhFTbqHlEXTMOyCxIvN.png" alt="错误示范" description="专业的行业用词有错别字。">
 
 <img class="preview-img no-padding good" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/qIwLlXOyJQlAqFwWSUuo.png" alt="正确示范" description="时间信息的表述精准完整。">
 <img class="preview-img no-padding bad" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/HBCyJcXZYmtLECZUtjzE.png" alt="错误示范" description="时间信息的描述词不是具体的『日』、『月』，容易让用户产生困扰。">
@@ -231,7 +227,7 @@ title:
 以下元素单独出现时需要加上标点：
 
 - 多句或多段的文案和列表内容。
-- 任何文字链前的句子。
+- 任何文字链接前的句子。
 
 ### 谨慎使用感叹号
 
